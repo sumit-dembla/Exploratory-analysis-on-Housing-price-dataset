@@ -7,3 +7,7 @@ Main things that are done in the notebook is something like:
     Multivariate study. We'll try to understand how the dependent variable and the independent variables relate to each other.
     Basic cleaning. We'll clean the data set and handle the missing data, outliers, and categorical variables.
     Test assumptions. We'll check if our data meets the assumptions required by most multivariate techniques.
+    
+The dataset is taken from https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data?select=data_description.txt
+    
+    
