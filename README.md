@@ -1,5 +1,6 @@
 # Exploratory-analysis-on-Housing-price-dataset
 Data analysis of the House Prices data set
+
 Main things that are done in the notebook is something like:
     Understanding the problem. We'll look at each variable and do a philosophical analysis of their meaning and its importance to this problem.
     Univariable study. We'll just focus on the dependent variable ('SalePrice') and try to learn a little bit more about it.
